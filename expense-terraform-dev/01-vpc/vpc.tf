@@ -1,4 +1,4 @@
-# Our Module is Ready use that & just paste below
+# Our Module is Ready to use that & just paste below
 #In big projects will maintain Seperate repos, BUT here we are dividing in seperate folders in same repo
 
 module "vpc" {

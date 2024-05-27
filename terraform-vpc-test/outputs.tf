@@ -7,7 +7,7 @@
 
 
 output "vpc_id" {
-    value = module.vpc.vpc_id # Name should be same from (aws-vpc --> Outpt) Catch output that publishes from (aws-vpc)
+    value = module.vpc.vpc_id # Name should be same from (aws-vpc --> Output) Catch output that publishes from (aws-vpc)
   
 }
 
